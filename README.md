@@ -2,7 +2,7 @@
 Core SQL #178
 Description
 
-(http://jsdev.learnersguild.org//goals/178-Core_SQL.html)for access to Links
+( http://jsdev.learnersguild.org//goals/178-Core_SQL.html ) for access to Links
 
 A day-by-day structured deep dive into the basics of SQL. Complete lessons, and read tutorials.
 
