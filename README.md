@@ -20,15 +20,15 @@ Becoming a full stack web developer means that you need to be comfortable with w
 
 Specifications
 
-Day 1: SQL Basics & Advanced SQL Queries
+#Day 1: SQL Basics & Advanced SQL Queries
 
  - [ ] Complete the SQL Basics course
  - [ ] Complete the Advanced SQL queries course
-Day 2: Relational Queries
+#Day 2: Relational Queries
 
  - [ ] Complete the Relational Queries course
  - [ ] Complete the Modifying databases with SQL course
-Day 3: Install Postgres and Complete Tutorials with psql
+#Day 3: Install Postgres and Complete Tutorials with psql
 
  - [ ] Install Homebrew by following instructions listed here
  - [ ] Install Postgres by following instructions listed here
@@ -50,7 +50,7 @@ Day 3: Install Postgres and Complete Tutorials with psql
  - [ ] complete the tutorial for the limit clause here
  - [ ] complete the tutorial for the order by clause here
  - [ ] complete the tutorial for the group by clause here
-Day 4: Mini Project & Exercises
+#Day 4: Mini Project & Exercises
 
  Exercises 1-13 in the sql-exercises repo are complete and written to the appropriate file:
  - [ ] sql/01-create-table-student.sql
@@ -66,7 +66,7 @@ Day 4: Mini Project & Exercises
  - [ ] sql/11-liked-but-does-not-like.sql
  - [ ] sql/12-find-friends-in-common.sql
  - [ ] sql/13-popular-students.sql
-Day 5: Exercises on SQL Bolt
+#Day 5: Exercises on SQL Bolt
 
  Complete the SQL Bolt tutorial
 - [ ] Stretch
