@@ -22,13 +22,13 @@ Specifications
 
 #Day 1: SQL Basics & Advanced SQL Queries
 
- - [ x ] Complete the SQL Basics course
- - [ x ] Complete the Advanced SQL queries course
+ - [x] Complete the SQL Basics course
+ - [x] Complete the Advanced SQL queries course
 
 #Day 2: Relational Queries
 
- - [ ] Complete the Relational Queries course
- - [ ] Complete the Modifying databases with SQL course
+ - [x] Complete the Relational Queries course
+ - [x] Complete the Modifying databases with SQL course
 
 #Day 3: Install Postgres and Complete Tutorials with psql
 
